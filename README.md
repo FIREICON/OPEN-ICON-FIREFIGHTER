@@ -1,14 +1,14 @@
 # OPEN ICON - FIREFIGHTER
 
-Aquest repositori recull icones vectorials creades lliurement per a ser utilitzades en l’àmbit operatiu de serveis d’emergència, especialment els serveis d'emergències i Bombers.
+Aquest repositori recull icones vectorials creades lliurement per a ser utilitzades de forma lliure EXCLUSIVAMENT en l’àmbit operatiu de serveis d’emergència, especialment els serveis d'emergències i Bombers. Altres usos fora d'aquest abast han de ser consultats pel l'autor
 
-This repository hosts freely designed vector icons for use in emergency services, especially emergency services and Firefighters.
+This repository hosts freely designed vector icons for use ONLY as open source in emergency services, especially emergency services and Firefighters. Other uses can be consulted with autor
 
 ---
 
 ## 👷 Icona actual / Current icon
 
-**CASC_BOMBER_SOL.svg**  
+Afecta a totes les icones/arxius (SVG) continguts al repositori  OPEN-ICON-FIREFIGHTER   
 Icona vectorial en format SVG d’un casc de bomber.  
 Vector icon (SVG) representing a firefighter helmet.  
 Dissenyada per a manuals, gràfics tècnics o materials visuals operatius.  
