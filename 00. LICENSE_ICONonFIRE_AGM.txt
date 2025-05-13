@@ -4,6 +4,7 @@ Totes les icones vectorials contingudes a OPEN-ICON-FIREFIGHTER han estat creade
 Aquest recurs es publica sota la llicència Creative Commons Reconeixement - NoComercial - SenseObraDerivada (CC BY-NC-ND 4.0).
 
 Qualsevol persona pot descarregar i compartir aquest recurs, sempre que:
+- No s'admeten obres derivades o entrenament amb intel·ligència artificial
 - Estigui destinat exclusivament a ús de serveis públics d'emergències: Bombers i Protecció civil.
 - S’utilitzi exclusivament en àmbits no comercials, per exemple àmbits documentals i formatius
 - No se’n faci cap modificació ni versió derivada.
@@ -20,6 +21,7 @@ All vectorial icons contained in OPEN-ICON-FIREFIGHTER has been createf by ICONo
 This resource is released under the Creative Commons Attribution - NonCommercial - NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 
 You may download and share this resource provided that:
+- Not derivative o learning Artificial Intelligence are allowed
 - It is intended exclusively for use by public emergency services: Firefighters and Civil Protection.
 - It is used exclusively in non-commercial contexts, such as educational and documentation purposes.
 - No modifications or derivative versions are made.
